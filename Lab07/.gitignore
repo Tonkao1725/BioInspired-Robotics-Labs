@@ -1,14 +1,12 @@
 __pycache__/
-*.pyc
+*.py[cod]
+~$*
 .venv/
+
+# Public fork: keep original movie local; publish the existing YouTube link.
+/3-results/evidence/present/IMG_4568.MOV
+
+# Preserve local backups without adding new backup files to Git.
+/original_files/
 .env
 .env.*
-build/
-install/
-log/
-*.avi
-*.mkv
-*.tmp
-2-src/results/new_*/
-
-_originals_20261106/

@@ -1,3 +1,11 @@
+## วิดีโอสาธิต Lab07 — กลุ่ม 7
+
+[รับชมวิดีโอเล่นกับโคมจริงบน YouTube — ชุดทดลองวันที่ 12 พฤศจิกายน 2569](https://youtu.be/-zckfxbT9Jk?feature=shared)
+
+ตรวจรายงาน ใบงาน Proposal และข้อมูล CSV ของชุดส่งปัจจุบันได้ที่ [Lab07 ใน Fork ของกลุ่ม 7](https://github.com/Tonkao1725/BioInspired-Robotics-Labs-Fork-/tree/main/group_07_submissions/lab_07) ส่วนประวัติ Commit รายสัปดาห์แสดงไว้ด้านล่าง วิดีโอชุดนี้แยกจากหลักฐานวิดีโอชุดก่อนหน้าที่เก็บใน GitHub Releases
+
+---
+
 # BioInspired-Robotics-Labs
 Laboratory assignments for Biological Sensing and Sensorimotor Control (1353410).
 
